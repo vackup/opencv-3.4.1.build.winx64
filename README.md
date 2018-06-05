@@ -1,7 +1,5 @@
 # opencv-3.4.1 winx64 build + open cv contrib
 
-Right now, the binaries are available to download from https://1drv.ms/u/s!AkSFtNKJBDmNholSOzYFVvIW2aLhVA
-
 After investing several hours learning how to build opencv + opencv contrib, here is the result. Hope you find it usefull!
 
 To start developing just download opencv 3.4.1 source code from https://github.com/opencv/opencv/releases/tag/3.4.1-cvsdk and opencv contrib 3.4.1 from https://github.com/opencv/opencv_contrib/releases/tag/3.4.1.
