@@ -1,0 +1,17 @@
+#Ignore files build by Visual Studio
+!*.obj
+!*.exe
+!*.pdb
+!*.aps
+!*.pch
+!*_i.c
+!*_p.c
+!*.ncb
+!*.suo
+!*.tlb
+!*.tlh
+!*.ilk
+!*.log
+!*.dll
+!*.lib
+!*.sbr
